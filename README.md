@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/satheshkumar-vijayakumar-1890114a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satheshkumar-vijayakumar-1890114a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucx5oapjzgnfyqvl2w8bcq3g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucx5oapjzgnfyqvl2w8bcq3g" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satheshkumarv85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="satheshkumarv85" height="30" width="40" /></a>
 </p>
 
@@ -19,6 +21,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sathesh85"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sathesh85" /></a></p><br><br>
+
 
 
 <img align="right" alt="GIF" src="https://github.com/Sathesh85/Sathesh85/blob/main/giphy%20(2).gif?raw=true" width="500" height="320" />
